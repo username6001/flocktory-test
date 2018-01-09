@@ -12,8 +12,8 @@ To start a web server(port 8080) for the application, run:
 
 ## Configuration
 
-Available enviroment variables with default values:
-PORT - web server port, default is 8080
+Available enviroment variables with default values:  
+PORT - web server port, default is 8080  
 MAX_CONN - limit of consurrent http connections, default is 10
 
 ## Prerequisites
